@@ -25,3 +25,13 @@ SQL, Python, Power BI
 - Improved operational efficiency by approximately 15%
 - Reduced manual reporting effort
 
+## Dashboard Preview
+
+### Hospital Performance Overview
+![Hospital Dashboard](screenshots/dashboard_overview.png)
+
+### Resource Utilization & Department Insights
+![Resource Utilization](screenshots/resource_utilization.png)
+
+### Data Summary View
+![Data Summary](screenshots/data_summary.png)
