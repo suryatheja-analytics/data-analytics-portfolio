@@ -20,3 +20,13 @@ SQL, Python, Power BI
 - Identified top-performing categories and regions
 - Provided insights to support inventory and marketing decisions
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
+### Sales Trends
+![Sales Trends](screenshots/sales_trends.png)
+
+### Customer Insights
+![Customer Insights](screenshots/customer_insights.png)
