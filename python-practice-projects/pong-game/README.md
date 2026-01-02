@@ -17,6 +17,7 @@ A simple Python-based Pong game built to practice object-oriented programming an
 ```bash
 python main.py
 
-
 ## Game Preview
+
 ![Pong Game](screenshots/pong_game.png)
+
